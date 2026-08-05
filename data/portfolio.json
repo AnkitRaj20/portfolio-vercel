@@ -1,0 +1,333 @@
+{
+  "personal": {
+    "name": "Ankit Raj",
+    "title": "Full-Stack Developer",
+    "email": "ankit21654@gmail.com",
+    "location": "noida",
+    "shortBio": "Hii, I am ankit raj, i build scalable websites.",
+    "bio": "I'm Ankit Raj, a Full-Stack Developer, particularly specializing in backend development. Passionate about building dynamic and scalable web applications. My expertise spans the MERN stack, Vue.js, Next.js and NuxtJs, with a strong focus on crafting robust backend solutions using Node.js. I excel at designing efficient databases with MongoDB, MySQL, and PostgreSQL. My focus is on creating seamless user experiences and delivering production-ready code that truly shines.",
+    "resumeOverrides": {
+      "mergeSkillsUnderTechnical": false,
+      "summary": "Full-Stack Developer specializing in scalable Node.js backend solutions and the MERN stack. Expert in designing efficient databases (MongoDB, PostgreSQL) and high-performance REST APIs. Passionate about building secure, production-ready applications and optimizing server-side log",
+      "selectedProjects": [
+        "716215955",
+        "9277d1c2-9671-4750-8b1e-f59804362d67",
+        "b03dfe7b-734b-4b18-ba91-ad6f1a515ab7"
+      ],
+      "selectedExperience": [
+        "7d80e69c-9f45-4a01-a86a-3730760a9f10",
+        "d7a57f53-201e-4e9e-a7bc-325379cc5aad",
+        "061ea520-992f-434c-b3cd-1fab99509e58",
+        "66bd1440-1393-42bc-b342-ee22194d9c79"
+      ],
+      "bulletOverrides": {
+        "experience": {
+          "7d80e69c-9f45-4a01-a86a-3730760a9f10": [
+            "Develops scalable backend solutions using Node.js and advanced technologies to meet business requirements.",
+            "Collaborates with cross-functional teams to design and implement new features for high-availability web applications.",
+            "Ensures code quality, performance optimization, and adherence to software development best practices.",
+            "Architects efficient database schemas and optimizes API endpoints for low latency and high throughput."
+          ],
+          "d7a57f53-201e-4e9e-a7bc-325379cc5aad": [
+            "Developed and maintained backend services utilizing Node.js and Express.js for client projects.",
+            "Designed and implemented efficient database schemas for MongoDB to support complex data requirements.",
+            "Contributed to the development of scalable web applications and RESTful APIs.",
+            "Implemented security best practices including authentication and authorization protocols."
+          ],
+          "061ea520-992f-434c-b3cd-1fab99509e58": [
+            "Developed and maintained robust backend services using Node.js, Express.js, and MongoDB for diverse applications.",
+            "Implemented RESTful APIs and integrated third-party services to enhance application functionality and user experience.",
+            "Collaborated with frontend teams to ensure seamless integration, delivering scalable and user-centric features.",
+            "Optimized database queries and server-side logic to improve application performance and response times."
+          ],
+          "66bd1440-1393-42bc-b342-ee22194d9c79": [
+            "Developed responsive web applications utilizing JavaScript, HTML, and CSS, focusing on cross-browser compatibility.",
+            "Implemented frontend logic and integrated with backend APIs to deliver dynamic and interactive user interfaces.",
+            "Contributed to the full software development lifecycle, including design, development, testing, and deployment.",
+            "Resolved UI/UX bugs and performance issues to ensure a seamless user experience across devices."
+          ]
+        },
+        "projects": {
+          "716215955": [
+            "Engineered a real-money gaming application backend using Node.js, Express.js, and MongoDB/PostgreSQL.",
+            "Optimized APIs via batch processing and Redis caching, reducing latency by 40% and achieving ~4–5 ms response times.",
+            "Integrated Google Sheets streaming for large data exports, saving ~₹1 Lakh in infrastructure costs while supporting 1+ lakh records."
+          ],
+          "9277d1c2-9671-4750-8b1e-f59804362d67": [
+            "Architected a microservices-based event management platform in Node.js, handling 10k daily active users.",
+            "Utilized Kafka for data streaming to increase throughput by 70% and Redis caching to reduce response times by 60%.",
+            "Integrated Socket.io for real-time communication and Firebase for push notifications, achieving a 99.9% delivery rate."
+          ],
+          "b03dfe7b-734b-4b18-ba91-ad6f1a515ab7": [
+            "Developed an AI-powered developer portfolio and resume platform using React, TypeScript, and custom Node.js backend.",
+            "Implemented an AI-assisted bio generation system and an ATS-optimized resume generation pipeline.",
+            "Integrated GitHub APIs for automated project fetching and built a weekly job recommendation engine."
+          ]
+        }
+      },
+      "sectionOrder": [
+        "summary",
+        "experience",
+        "projects",
+        "skills",
+        "education"
+      ],
+      "hiddenSections": [],
+      "hiddenSkillCategories": [],
+      "style": {
+        "templateId": "ats-classic",
+        "fontFamily": "sans",
+        "fontSizePt": 10.5,
+        "lineHeight": 1.15,
+        "marginTopMm": 12,
+        "marginBottomMm": 12,
+        "marginLeftMm": 22,
+        "marginRightMm": 22,
+        "entrySpacingMm": 3
+      }
+    },
+    "resume": {
+      "url": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1776547130/portfolio/resumes/resume_11a2224d-e3dd-4699-ba17-c57789692e22_1776547127.pdf",
+      "fileName": "ankit_resume.pdf",
+      "fileSize": 114360,
+      "uploadedAt": "2026-04-18T21:18:51.002Z",
+      "publicPath": "https://res.cloudinary.com/dsegmsiu8/raw/upload/v1776547130/portfolio/resumes/resume_11a2224d-e3dd-4699-ba17-c57789692e22_1776547127.pdf"
+    },
+    "state": "uttar pradesh",
+    "country": "india",
+    "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQFEbxeI09zvjA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1672762253079?e=1781136000&v=beta&t=nFeOG7-TwG6QadLuGGOcUcd508bPiTJ5Z_x9nUbShT4",
+    "city": ""
+  },
+  "seo": {},
+  "social": {
+    "github": "https://github.com/AnkitRaj20",
+    "website": "ankitcodes.tech",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/ankit-raj-716781254/"
+  },
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Vuejs",
+    "nuxtjs",
+    "nextjs",
+    "mongodb",
+    "mysql",
+    "redis",
+    "kafka",
+    "socket.io",
+    "agentic ai",
+    "postgresql",
+    "gemini",
+    "openai",
+    "typescript"
+  ],
+  "projects": [
+    {
+      "id": "716215955",
+      "title": "KhiladiAdda",
+      "description": "Khiladi Adda\nKhiladi Adda is a flagship real money gaming (RMG) application where users can register, complete KYC, deposit funds, play games, and withdraw winnings.\n\nBuilt with Node.js, Express.js, and MongoDB/PostgreSQL, the platform ensures compliance and scalability while handling high-traffic gaming operations. It has multiple Games\n\nKey highlights include:\n- 🔐 **KYC Workflows**: Aadhaar/PAN updation with secure onboarding.\n- 💳 **Wallet System**: Real-time balance updates and transaction logs.\n- ⚡ **Optimized APIs**: Batch processing reduced latency by 40%, Redis caching achieved ~4–5 ms responses.\n- 📊 **Google Sheets Streaming**: Replaced Excel exports, saving ~₹1 Lakh infra cost and supporting 1+ lakh records.\n- 🎮 ** Multiple Games**: It has multiple games like Ludo , Rummy , Ludo Tournament , Cricket Tournament etc.\n- 🔐 **Security**: Password hashing (Bcrypt), encryption (Crypto), rate limiting for integrations.\n\nStatus\n\nLive\n\nFeatures\n\n1. User Registration & KYC\n2. Wallet Management\n3. Multiple Payment Gateways\n4. Batch API Processing & Redis Caching\n5. Google Sheets Streaming for Large Data",
+      "image": "",
+      "tags": [
+        "Nodejs",
+        "expressjs",
+        "mongodb",
+        "redis"
+      ],
+      "github": "",
+      "demo": "",
+      "featured": true,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "766187841",
+      "title": "portfolio-nextjs",
+      "description": "GitHub repository: AnkitRaj20/portfolio-nextjs",
+      "image": "",
+      "tags": [],
+      "github": "https://github.com/AnkitRaj20/portfolio-nextjs",
+      "demo": "https://ankitcodes.vercel.app",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "965723812",
+      "title": "Blog Platform Backend",
+      "description": "This is a powerful and scalable backend API for a modern blog platform built with the MERN stack.\n\nDesigned for extensibility and performance, this backend provides complete support for user authentication, content management, and an interactive commenting system.\n\nKey technical highlights include:\n- 🔐 **JWT-Based Authentication**: Secure login, registration, and token-based route protection.\n- 💬 **Comment System**: Fully featured nested comment and reply system with CRUD operations.\n- 😊 **Emoji Reactions**: Facebook-style emoji reactions on blog posts.\n- ☁️ **Profile Image Uploads**: File uploads using Multer with local or cloud storage support.\n- 🧾 **Blog CRUD API**: Create, read, update, and delete blogs with clean RESTful endpoints.\n- 🛡️ **Security Best Practices**: Helmet, CORS, rate limiting, and bcrypt password hashing.\n- 🔗 **Versioned Routes**: All endpoints follow a scalable `/api/v1/` structure.\n\nIdeal for blog platforms or as a backend boilerplate for developers looking to learn real-world CRUD systems with nested structures.\n\nStatus\n\nLive\n\nFeatures\n\n1. JWT-Based User Authentication\n2. Nested Comments and Replies (Full CRUD)\n3. Emoji Reactions on Blog Posts\n4. Profile Picture Upload via Multer\n5. RESTful Blog CRUD APIs\n6. Role-Based Middleware (User/Admin)\n7. Security: Helmet, Rate Limiting, Bcrypt, CORS\n8. Modular Controller-Service Architecture\n9. Clean Versioned Routes under /api/v1/",
+      "image": "",
+      "tags": [
+        "Nodejs",
+        "mongodb",
+        "expressjs"
+      ],
+      "github": "https://github.com/AnkitRaj20/blog-backend",
+      "demo": "",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "979399366",
+      "title": "cab-microservice",
+      "description": "A backend project for uber like services",
+      "image": "",
+      "tags": [],
+      "github": "https://github.com/AnkitRaj20/cab-microservice",
+      "demo": "",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "965729619",
+      "title": "LMS",
+      "description": "This Learning Management System (LMS) backend is a production-ready platform enabling seamless online course management.\n\nBuilt using a modular Node.js architecture with MongoDB, the system features robust role-based authentication (Admin, Instructor, Student), RESTful API design, and advanced progress tracking.\n\nKey technical highlights include:\n- 🎓 **Role-Based Access Control**: Secure endpoints using JWT and Bcrypt, with distinct roles for admin, instructors, and students.\n- 🧾 **Certificate Generation**: Auto-generated certificates on course completion.\n- 💳 **Secure Payments**: Razorpay integration for smooth and secure transactions.\n- ☁️ **Media Uploads**: Cloudinary support for image and video uploads via Multer.\n- 🛒 **Wishlist & Progress Tracking**: Track lecture completion and manage course wishlists.\n- 📊 **Advanced Logging**: Winston + Morgan for centralized activity/error logging.\n- 🛡️ **Security Best Practices**: Helmet, rate limiting, and encrypted credentials for maximum protection.\n- 🔗 **Versioned APIs**: All routes start with `/api/v1/` for clean scalability.\n\nIdeal as a foundation for full-scale LMS platforms or as a boilerplate for backend learners.\n\nStatus\n\nLive\n\nFeatures\n\n1. Role-Based Access Control (Admin / Instructor / Student)\n2. JWT Authentication with password hashing via Bcrypt\n3. Course, Reviews, Progress and Lecture Management APIs\n4. Razorpay Payment Integration\n5. Cloudinary File Uploads (Multer)\n6. Course Wishlist and Progress Tracking\n7. Auto Certificate Generation\n8. Centralized Logging with Winston & Morgan\n9. Secure, Versioned APIs under /api/v1/\n10. Advanced Security: Helmet, Rate Limiting, HPP, CORS",
+      "image": "",
+      "tags": [
+        "Nodejs",
+        "expressjs",
+        "mongodb"
+      ],
+      "github": "https://github.com/AnkitRaj20/lms-backend",
+      "demo": "",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "974182384",
+      "title": "lms-backend",
+      "description": "A node js project for learning management system like Udemy",
+      "image": "",
+      "tags": [],
+      "github": "https://github.com/AnkitRaj20/lms-backend",
+      "demo": "",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "9277d1c2-9671-4750-8b1e-f59804362d67",
+      "title": "EventPulse",
+      "description": "EventPulse is an anonymous event posting and application platform designed for a seamless and robust event management experience.\n\nEngineered using a microservices architecture in Node.js, the platform efficiently handles approximately 10k daily active users by distributing workloads across specialized services.\n\nKey technical innovations include:\n- High-Throughput Data Streaming: Utilized Kafka for processing real-time notifications and chat data, increasing system throughput by 70%.\n- Real-Time Communication: Employed Socket.io to deliver near-instant chat responses and support robust concurrency.\n- Caching & Performance: Implemented Redis for caching frequently accessed data, reducing average response times by ~60%.\n- Secure Authentication: Leveraged Bcrypt for password hashing and Crypto for encryption while adopting JWT for secure, token-based authentication.\n- Notification Management: Integrated Firebase for push notifications alongside a priority queue for time-sensitive alerts, achieving a 99.9% delivery rate.\n- Database Management: Used MySQL paired with Sequelize ORM to maintain data consistency and transactional integrity.\n- Payment Processing: Incorporated Razorpay to enable frictionless payment transactions.\n\nDeveloped with modern technologies and best practices, EventPulse stands as a significant technical achievement, demonstrating high performance, enhanced security, and scalable event management capabilities.\n\nStatus\n\nLive\n\nFeatures\n\n1. Node.js Microservices Architecture\n2. High-Throughput Data Streaming with Kafka\n3. Real-Time Communication via Socket.io\n4. Caching & Performance Optimization with Redis\n5. Secure Authentication using Bcrypt, Crypto, and JWT\n6. Reliable Notification Management with Firebase\n7. Transactional Data Management with MySQL & Sequelize\n8. Seamless Payment Integration with Razorpay",
+      "image": "",
+      "tags": [
+        "Nodejs",
+        "expressjs",
+        "kafka",
+        "mysql",
+        "redis"
+      ],
+      "github": "",
+      "demo": "",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "972217760",
+      "title": "microservice",
+      "description": "GitHub repository: AnkitRaj20/microservice",
+      "image": "",
+      "tags": [],
+      "github": "https://github.com/AnkitRaj20/microservice",
+      "demo": "",
+      "featured": false,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    },
+    {
+      "id": "b03dfe7b-734b-4b18-ba91-ad6f1a515ab7",
+      "title": "YouHired",
+      "description": "One stopYouHired is an AI-powered developer portfolio and resume platform designed to streamline how candidates present themselves and discover relevant job opportunities.\n\nBuilt as a modern full-stack application using React, TypeScript, and a fully custom backend, the platform enables users to generate structured portfolios and ATS-friendly resumes from a single unified data source.\n\nKey technical innovations include:\n\nUnified Data Modeling: Designed a centralized profile schema that transforms user input into multiple outputs (portfolio + resume) using a structured transformation layer.\nAutomated Resume Generation: Implemented an intelligent ResumeViewModel system to generate ATS-optimized resumes with normalized skills, structured sections, and clean formatting.\nAI-Assisted Bio Generation: Developed a system that generates personalized bios based on projects, skills, and experience, avoiding generic, prompt-based outputs.\nWeekly Job Recommendations: Built a recommendation system that delivers curated job listings based on user profile, skills, and preferences, helping users discover relevant opportunities consistently.\nTemplate-Driven Rendering: Created a flexible template architecture for portfolios and resumes, enabling dynamic layout switching without altering underlying data.\nCustom Backend Architecture: Engineered a fully custom backend for handling user data, transformations, and generation pipelines with scalability in mind.\nPerformance & Deployment: Optimized frontend performance with Vercel deployment, ensuring fast load times and smooth user experience.\nGitHub Integration: Integrated GitHub APIs to automatically fetch and showcase projects, improving authenticity and reducing manual effort.\nExport & Sharing: Enabled export-ready resumes and shareable portfolio links for seamless distribution.\n\nDeveloped with a focus on efficiency and real-world usability, YouHired simplifies the job application workflow by allowing users to input their data once and generate both a portfolio and resume, while also receiving ongoing job recommendations tailored to their profile.\n\nStatus\n\nLive\n\nFeatures\n\nAI-Powered Portfolio & Resume Generation\nUnified Profile → Multi-Output System\nATS-Friendly Resume Builder\nPersonalized Bio Generation from Real Data\nWeekly Job Recommendation System\nTemplate-Based Portfolio & Resume Rendering\nGitHub Integration for Project Sync\nCustom Backend Infrastructure\nOne-Click Export & Shareable Links",
+      "image": "",
+      "tags": [
+        "ReactJs",
+        "NodeJs",
+        "MongoDb",
+        "Agentic AI",
+        "Vercel",
+        "Github integration"
+      ],
+      "github": "https://github.com/AnkitRaj20/codefolio/",
+      "demo": "https://youhired.vercel.app",
+      "featured": true,
+      "visible": true,
+      "isDescriptionManuallyEdited": false
+    }
+  ],
+  "experience": [
+    {
+      "id": "7d80e69c-9f45-4a01-a86a-3730760a9f10",
+      "company": "LCNC",
+      "role": "SOFTWARE DEVELOPER",
+      "period": "Sep 2025 - Present",
+      "description": "",
+      "current": true
+    },
+    {
+      "id": "d7a57f53-201e-4e9e-a7bc-325379cc5aad",
+      "company": "TECBELIVER",
+      "role": "SOFTWARE DEVELOPER",
+      "period": "May 2025 - Aug 2025",
+      "description": "",
+      "current": false
+    },
+    {
+      "id": "061ea520-992f-434c-b3cd-1fab99509e58",
+      "company": "Sartia Global",
+      "role": "Node.Js Developer",
+      "period": "Jun 2024 - Apr 2025",
+      "description": "",
+      "current": false
+    },
+    {
+      "id": "66bd1440-1393-42bc-b342-ee22194d9c79",
+      "company": "CodeMetrics Infotech",
+      "role": "Web Developer",
+      "period": "Dec 2020 - Dec 2021",
+      "description": "",
+      "current": false
+    }
+  ],
+  "education": [
+    {
+      "id": "ae060f78-0c02-4bf0-95ba-1a4d68782bc3",
+      "institution": "AKTU",
+      "degree": "MCA",
+      "period": "2022 - 2024",
+      "description": ""
+    },
+    {
+      "id": "d7f11996-c570-4c1f-9937-fd48eec09a62",
+      "institution": "AKTU",
+      "degree": "BCA",
+      "period": "2018 - 2021",
+      "description": ""
+    }
+  ],
+  "sectionConfig": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "title": "Hero Section",
+      "visible": true,
+      "content": {
+        "heroStyle": "hero-default"
+      }
+    },
+    {
+      "id": "about",
+      "type": "about",
+      "title": "About Section",
+      "visible": true,
+      "content": {
+        "text": "I'm Ankit Raj, a Full-Stack Developer, particularly specializing in backend development. Passionate about building dynamic and scalable web applications. My expertise spans the MERN stack, Vue.js, Next.js and NuxtJs, with a strong focus on crafting robust backend solutions using Node.js. I excel at designing efficient databases with MongoDB, MySQL, and PostgreSQL. My focus is on creating seamless user experiences and delivering production-ready code that truly shines.",
+        "aboutStyle": "about-default"
+      }
+    }
+  ]
+}
